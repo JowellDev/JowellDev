@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JowellDev
+- 👋 Hi, I’m Joël Ephraïm
 - 👀 I’m interested in web and mobile development, artificial intelligence and his application in current life
 - 🌱 I’m currently learning ReactJs, Python and framework like Django and Flask, Flutter and Dart
 
